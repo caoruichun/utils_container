@@ -1,5 +1,6 @@
 ### 工具集合
 
-[preview]:<a href="./preview/README.md">vue项目对dist打包后检查打包后的文件</a>
+    目对dist打包后检查打包后的文件 ：preview
+    script：周报自动脚本
 
-2019-12-22
+20-02-19
