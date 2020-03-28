@@ -1,0 +1,19 @@
+{
+  "name": "code-backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shihongScript": "node ./blogScript.js",
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "puppeteer": "^2.1.1",
+    "xlsx-style": "^0.8.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
