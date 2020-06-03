@@ -7,3 +7,4 @@
     export.js: 文件导出
     isIphoneX.js: 判断是不是苹果手机
     request.js: axios的封装
+    validation.js 验证工具
